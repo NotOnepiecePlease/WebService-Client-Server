@@ -98,12 +98,12 @@ namespace TCP_Server
                     }));
 
                     List<string> count = SelectCount(Received); //Pego o comando do Client, e executo no metodo (a query no caso)
-                    //string Nome = "";
+                    string Nome = "";
                     foreach (string nome in count)
                     {
-                        STW.WriteAsync(nome); //Escrevo de volta o retorno que o Client pediu
-                        //Nome += nome + "\n";
+                        Nome += nome + "\n";
                     }
+                    STW.WriteAsync(Nome); //Escrevo de volta o retorno que o Client pediu
                     Received = "";
                 }
                 catch (Exception exception)
