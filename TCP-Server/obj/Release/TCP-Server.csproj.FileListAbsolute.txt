@@ -1,0 +1,9 @@
+C:\Users\AngeL\source\repos\TCP-ClientServer\TCP-ClientServer\bin\Release\TCP-ClientServer.exe.config
+C:\Users\AngeL\source\repos\TCP-ClientServer\TCP-ClientServer\bin\Release\TCP-ClientServer.exe
+C:\Users\AngeL\source\repos\TCP-ClientServer\TCP-ClientServer\bin\Release\TCP-ClientServer.pdb
+C:\Users\AngeL\source\repos\TCP-ClientServer\TCP-ClientServer\obj\Release\TCP_ClientServer.frm_Server.resources
+C:\Users\AngeL\source\repos\TCP-ClientServer\TCP-ClientServer\obj\Release\TCP_ClientServer.Properties.Resources.resources
+C:\Users\AngeL\source\repos\TCP-ClientServer\TCP-ClientServer\obj\Release\TCP-Server.csproj.GenerateResource.cache
+C:\Users\AngeL\source\repos\TCP-ClientServer\TCP-ClientServer\obj\Release\TCP-Server.csproj.CoreCompileInputs.cache
+C:\Users\AngeL\source\repos\TCP-ClientServer\TCP-ClientServer\obj\Release\TCP-ClientServer.exe
+C:\Users\AngeL\source\repos\TCP-ClientServer\TCP-ClientServer\obj\Release\TCP-ClientServer.pdb
